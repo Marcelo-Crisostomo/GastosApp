@@ -1,0 +1,74 @@
+body{
+    background-color: #364958;
+}
+.losTitulos{
+    color:#253237;
+    text-align: center;
+}
+.left{
+    background-color: #C9E4CA;
+}
+.right{
+    background-color: #E4F1E4;
+    margin: 0px;
+    padding: 0px;
+}
+.valor{
+color: #55828B;
+font-size: 35px;
+font-weight: 500;
+}
+.resultado{
+    color: #55828B;
+    font-weight: 500;
+}
+.fa-regular:hover{
+cursor: pointer;
+color: #3B6064;
+transition: 0.5s ease;
+
+}
+.boton{
+    color: #fff;
+    background-color: #62A786;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+.boton:hover{
+    color: #fff;
+    transition: 0.6s ease;
+    background-color: #42765D;
+
+}
+.fondoPresupuesto{
+   
+    border-radius: 12px;
+    margin-bottom:2%;
+}
+.gasto-resultado{
+    color: #87BBA2;
+    font-size: 18px;
+}
+.fondoGasto{
+
+    border-radius: 12px;
+    margin-top: 2%;
+}
+
+.fondoRegistro1{
+    background-color: #87BBA2;
+
+    margin-bottom:2%;
+    color: #fff;
+    padding: 20px 15px;
+    text-align: center;
+}
+
+.fondoRegistro2{
+   
+
+    margin-top:2%;
+    padding: 15px;
+    
+}
